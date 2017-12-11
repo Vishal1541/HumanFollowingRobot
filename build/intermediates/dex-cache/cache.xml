@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_6af81cd9f2202a607a39f153d158a4a2f5dea47c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2de7377a3455586ae88565255797b32c0b0e6cc">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3365b8ed9da05ff6b68494a44c6d362e291197e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_41589c8822904de8fc42d6d9310b9c3fd99d073e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_e8416b373512010601176d32bfa1d6df70265e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_afeb61776af387a5869d90b7594cba06af0f679f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_a0e1091a810ee8791ea62d7dc780045c35aa05fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_b0cceeef6902134579c09b481c73b8abe04fe18f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_e104e34dac78e492f8a129dece72a078a9604b20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_67b00e640c58249e3ea4a81e1b151bb2e464a184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e422b35e8bca1ab7d0b2e2dbb2650aad64236dd0">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a6c91a51e9fcd4ddd10e3c6f840ce4f9914e2445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_620c70e9f1e42734870d4babe2eef7b446e9f0f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\IIT_MANDI\Sem_2_Classes\IC161P-Applied Electronics Lab\Avishkar\HumanFollowingRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_d9cd1f68ce9f859a5c6872153dbe46dab9d4fa68\classes.dex" />
+    </item>
+
+</items>

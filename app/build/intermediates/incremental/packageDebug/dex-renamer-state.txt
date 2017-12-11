@@ -1,0 +1,7 @@
+#Sat May 20 09:59:02 IST 2017
+base.0=F\:\\IIT_MANDI\\Sem_2_Classes\\IC161P-Applied Electronics Lab\\Avishkar\\HumanFollowingRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a6c91a51e9fcd4ddd10e3c6f840ce4f9914e2445
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\IIT_MANDI\\Sem_2_Classes\\IC161P-Applied Electronics Lab\\Avishkar\\HumanFollowingRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e3365b8ed9da05ff6b68494a44c6d362e291197e\\classes.dex
+base.1=F\:\\IIT_MANDI\\Sem_2_Classes\\IC161P-Applied Electronics Lab\\Avishkar\\HumanFollowingRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e3365b8ed9da05ff6b68494a44c6d362e291197e
+file.0=F\:\\IIT_MANDI\\Sem_2_Classes\\IC161P-Applied Electronics Lab\\Avishkar\\HumanFollowingRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a6c91a51e9fcd4ddd10e3c6f840ce4f9914e2445\\classes.dex
